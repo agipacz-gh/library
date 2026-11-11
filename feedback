@@ -1,64 +1,45 @@
-Overall Comments on Priorities
-Throughout the year, I consistently completed my priorities and tasks while remaining fully billable and submitting timesheets on time. I work in a hybrid model, meeting the requirement of spending over 40% of time in the office. My priorities included both company-related responsibilities and project tasks, where I continuously develop and take on new challenges. 
+# 1. Overall Comments on Priorities
 
-Transitioning from the PMO role to software engineering required rapid onboarding to new responsibilities and self-driven technical development, which I consider a major achievement.
+Throughout the year, I consistently worked towards completing my assigned priorities and project responsibilities while remaining fully billable and submitting my timesheets on time. I also complied with the hybrid working requirements throughout the year, including the 10% office attendance requirement during the applicable period and the 40% requirement after it changed.
 
-In the project, I am primarily responsible for managing mainly two platforms: Intranet and Bynder (Digital Asset Management). I joined Bynder at the very beginning of its implementation and quickly mastered its use to effectively support the users. I regularly respond to tickets (mailbox and JIRA), manage user permissions for the platform, monitor system performance, test new changes or features and address any issues. I also collaborate with application providers when problems require more advanced support. 
+My priorities covered several areas, including system maintenance and performance monitoring, user management and access control, implementation of new features, collaboration with stakeholders, project support and maintaining knowledge base documentation.
 
-I create landing pages, assist users in implementing new functionalities, and develop instructions and presentations to make platform usage easier. I collect data on Intranet and create reports activity using Excel, Matomo, and built-in application analytics tools for users request. 
+I continued to support three main platforms: Intranet, Bynder (Digital Asset Management) and ECB Connect. My responsibilities included handling user requests and JIRA tickets, managing permissions, monitoring platform performance, testing changes, preparing reports based on business requirements and supporting users with new functionalities.
 
-Additionally, I support the team in Press Conference activities (coordinating communications) and ECB Connect platform, where I also handle tickets and monitor changes. I also participate as support in transferring automations from UiPath to Power Automate Desktop, which allowed me to better understand process workflows and develop my technical knowledge. 
+I also continued developing my technical skills through structured training and regular learning activities, with a particular focus on software development, AI and AWS.
 
-I took part in a Power Automate training and continuously improve my skills in Power Automate Desktop. As part of my professional development, I completed an architecture in AWS training and an English course, which significantly improved my fluency in daily communication.
+# 2. Overall Comments on Skills Maturity
 
+This year, I made significant progress in both my technical and interpersonal skills, with a strong focus on expanding my technical knowledge and preparing for more advanced technical responsibilities.
 
-Overall Comments on In Year Contribution
+A major part of my development was focused on Python and software development. For several months, I have been working regularly with a Python mentor, with weekly sessions focused not only on Python programming but also on broader software development concepts and good engineering practices. This includes design patterns, Clean Code principles, problem-solving approaches and writing maintainable code. I regularly receive programming exercises and small projects to solve independently.
 
-This year has been a time of intensive development and active involvement in various project areas. I focused on developing both technical and soft skills. I improved my English and communication, onboarded to the new software engineering role, effectively manage the Intranet and Bynder platforms, create landing pages, develop instructions and presentations, analyze data, and support users. I actively support the implementation and transition of automated processes.
+Additionally, I completed a one-week Python Advanced training, which allowed me to deepen my knowledge and explore more advanced programming concepts. I see this development as an important investment in my future contribution to the project, as well as an opportunity to support the team with more technical tasks and participate in internal software development initiatives within the company.
 
-Additionally, I actively pursue training in automation and AWS to further strengthen my technical skill set.
+Another important area of development was AI, which is also one of the company's key priorities. I completed the intensive five-week AI_devs 4 course organised by BRAVE, as well as the required company AI-related training and the AI Foundation Badge. My goal was to better understand the ongoing changes in the IT industry, explore new technologies and develop knowledge that could be useful in my daily work and future project activities.
 
-System Maintenance and Process Optimization
-2026_Monitoring system performance and stability
-On Track
-·
-Created: Sep 3, 2026
-2026_Assisting with project planning and execution
-On Track
-·
-Created: Sep 3, 2026
-2026_Working collaboratively with stakeholders
-On Track
-·
-Created: Sep 3, 2026
-2026_User management and access control
-On Track
-·
-Created: Sep 3, 2026
-2026_Implementing new features and functionalities
-On Track
-·
-Created: Sep 3, 2026
-2026_Leading meetings
-On Track
-·
-Created: Sep 3, 2026
-2026_Maintaining knowledge base articles
-On Track
-·
-Created: Sep 3, 2026
+I also continued expanding my knowledge of AWS through further learning activities and kept improving my English skills, focusing on communication in everyday project work.
 
-Plan and complete an AI Pathway related to your role (agreed with your People Manager).
+Apart from technical development, I noticed significant progress in my communication and organisation skills. I have become more confident in sharing my ideas, expressing my opinions and discussing alternative solutions. I am more comfortable disagreeing with a proposal when I have arguments to support another approach, while also remaining open to other people's ideas and working together to find the best solution.
 
-2026_Activate AI Foundation Badge
-Completed
-·
-Created: Sep 3, 2026
-2026_5-week AI_devs 4 course by BRAVE
-Completed
-·
-Created: Sep 3, 2026
+I have also improved my ability to organise my daily work, manage smaller tasks independently and adapt to changing priorities. This was particularly important this year due to changes and rotations within the team and the increased workload resulting from additional responsibilities.
 
-Build and strengthen your knowledge through structured training and consistent daily work
+Looking ahead, one of my main development goals is to continue intensively improving my software development skills, building on my Python knowledge and gaining a broader understanding of software engineering practices. I would also like to improve my ability to plan and manage longer-term tasks, monitor their progress and bring them to completion within the expected timeframe, including situations where progress depends on other people or external factors.
 
-python, mentoring
+# 3. Overall Comments on In Year Contribution
+
+This year was particularly demanding due to changes and rotations within the team, as well as an increased workload related to a major project delivery. I had to adapt to changing priorities, take on additional responsibilities and organise my work to ensure that regular project activities continued without disruption.
+
+One of my most significant contributions was my involvement in the further development of the Bynder platform. This year, the platform was extended to new teams, which required preparing a new space, defining user groups, configuring permissions and creating a new workflow. I actively participated in discussions with the client and the platform provider to understand the requirements and establish the appropriate technical setup. I also proposed solutions and contributed to their implementation.
+
+My involvement covered different stages of the process, from preparing the configuration to creating test scenarios and verifying the solutions independently and together with users. One part of the implementation has already been successfully completed, while other elements are currently being developed and tested in the test environment.
+
+In addition to Bynder, I continued supporting Intranet and ECB Connect, handling tickets in JIRA, investigating reported issues, testing changes and helping users. I also regularly update and maintain knowledge in Confluence when new solutions or changes are introduced.
+
+I continued preparing reports and analysing platform data based on specific user requirements, as well as supporting new initiatives and improvements across the platforms.
+
+I also remained involved in Press Conference activities, supporting communication and coordination related to this area.
+
+Another important part of my contribution was supporting knowledge transfer to a new team member, sharing my experience and helping with onboarding. I also supported the team with additional technical and operational tasks whenever needed, particularly during periods of increased workload and limited team capacity.
+
+Overall, I believe this year allowed me to become more independent, take greater ownership of my responsibilities and contribute more actively to technical project activities. I also became more confident in communicating with stakeholders, proposing solutions and cooperating with different people to move tasks forward.
